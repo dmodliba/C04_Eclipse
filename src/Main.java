@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("leer");
 		System.out.println("neue Zeile");
 		System.out.println("neu 1");
+		System.out.println("test");
 	}
 	
 }
